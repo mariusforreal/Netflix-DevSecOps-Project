@@ -353,7 +353,7 @@ pipeline{
 }
 
 
-If you get docker login failed errorr
+If you get docker login failed errorr run the follwoing commands on your jenkins ec2
 
 sudo su
 sudo usermod -aG docker jenkins
